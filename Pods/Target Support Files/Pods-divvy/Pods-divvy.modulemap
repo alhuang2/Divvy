@@ -1,0 +1,6 @@
+framework module Pods_divvy {
+  umbrella header "Pods-divvy-umbrella.h"
+
+  export *
+  module * { export * }
+}
